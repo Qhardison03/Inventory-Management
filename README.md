@@ -24,6 +24,7 @@ This electronics store Inventory Management project was developed and designed i
     - DamagedInventory.csv --> All items that are damaged will be listed and sorted in the order of most expensive to least expensive. 
     
   # Part Two: Interactive Inventory Query Capabilities
+    Using the code from Part One:
     - Program will query an item from the user by asking the user for a manufacturer and item type.
     - Program will either: 
       A. Print a message saying "No such item in inventory" if either the manufacturer or item type is not in the inventory, more than one of either type is submitted, or the combination is not in the inventory. 
